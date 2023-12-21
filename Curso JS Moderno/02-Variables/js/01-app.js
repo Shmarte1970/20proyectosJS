@@ -1,5 +1,5 @@
 // Se puede inicializar sin valor y asignarlos despues
-var disponible;
+/* var disponible;
 
 disponible = true;
 
@@ -25,3 +25,4 @@ var nombreProducto;
 
 // snike
 var nombre_producto;
+*/
